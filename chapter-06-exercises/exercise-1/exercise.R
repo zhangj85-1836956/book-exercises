@@ -8,7 +8,7 @@ my_name <- "Jin Zhang"
 name_length <- nchar(my_name)
 
 # Print the number of letters in your name
-name_length
+print(name_length)
 
 # Create a variable `now_doing` that is your name followed by "is programming!" 
 # (use the `paste()` function)
@@ -24,7 +24,7 @@ now_doing <- toupper(now_doing)
 fav_1 <- 9
 fav_2 <- 19
 
-# Divide each number by the square root of 201 and save the new value in the
+# Divide each number by the square root of 201 and save the new value in 
 # original variable
 
 
